@@ -213,6 +213,6 @@ Filter to `purchase` events when calculating revenue. Avoid summing event-level 
 
 ## Author
 
-**Harsh Mhatre**  
+**Harsh Mhatre** 
 M.Sc. Data Analytics  
-Pillai College of Arts, Commerce & Science, New Panvel
+Pillai University New Panvel
